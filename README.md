@@ -2,4 +2,4 @@
 
 ## Computer
 
-<img src="./Computer.png">
+<img src="./Computer 1ss.png">
