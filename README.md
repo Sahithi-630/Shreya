@@ -1,5 +1,5 @@
 # Shreya
 
-##Computer
+## Computer
 
 <img src="./Computer.png">
